@@ -1,2 +1,3 @@
-# SQLHW2
-I am resubmitting my homework. 
+# sql-challenge
+
+Got the bonus done i think. 
